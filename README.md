@@ -132,4 +132,4 @@ Run the following command to be able to run composer command from any directory.
 
 Then on your browser open the following url http://192.168.56.14:8000, the following page will display
 
-![Php-webframe](Images/php-todo.png)
+![Php-webframe](Images/php-todo-db.png)
