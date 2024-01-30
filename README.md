@@ -18,7 +18,7 @@ sudo systemctl start mariadb
 sudo systemctl enable mariadb
 ```
 
-#restore the dump file for the application
+**#Setting up DB**
 
 ```markdown
 sudo mysqladmin -u root password "$DATABASE_PASS"
